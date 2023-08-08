@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @x-kaosar
+- 👋 Hi, I’m @x-kawsar
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Fiverr
